@@ -1,3 +1,3 @@
 # serv_with_pool
 
-practice by GCC　ｐｏｓｉｘ
+practice　by　GCC　POSIX
